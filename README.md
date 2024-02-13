@@ -1,6 +1,9 @@
 # My humble PowerShell profile
 ## Usage
 ### Commands
+- `cdrl` - Change the directory to the Root of the Project
+- `cdfl` - Change the directory to the Front of the Project
+- `cdbl` - Change the directory to the Back of the Project
 - `guc` - Generate a Uuid to the Clipboard
 ## Installation
 ### Windows
